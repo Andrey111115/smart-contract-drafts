@@ -9,3 +9,6 @@ Smart Contract Drafts — Daily Development Log  This repository contains experi
 Day 2 — 2025-08-02
 - Created basic smart contract template in `contracts/` folder  
 - Defined initial state variables and constructor logic
+## Day 3 — 2025-08-03
+- Implemented custom modifier for access control  
+- Researched gas optimization strategies for Solidity loops
