@@ -12,3 +12,6 @@ Day 2 — 2025-08-02
 ## Day 3 — 2025-08-03
 - Implemented custom modifier for access control  
 - Researched gas optimization strategies for Solidity loops
+## Day 4 — 2025-08-04
+- Added basic staking and reward logic  
+- Simulated contract behavior in local testnet environment
